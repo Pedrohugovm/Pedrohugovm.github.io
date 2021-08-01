@@ -1,14 +1,14 @@
 {
   "name": "portfolio_nextjs",
   "version": "0.1.0",
-  "homepage": "https://pedrohugovm.github.io/",
+  "homepage": "https://pedrohugovm.github.io/pedrohugovm.github.io",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "next": "10.2.3",
