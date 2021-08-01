@@ -14,7 +14,9 @@ const Hero = (props) => (
       <SectionText>
         Meu nome é Pedro Hugo e sou estagiário de desenvolvimento web para a EPD-VR.
       </SectionText>
-      <Button onClick={() => window.location = 'https://linktr.ee/pedrodexter'}>Meu Link Tree</Button>
+      <a href="https://linktr.ee/pedrodexter" target="_blank">
+      <Button>Meu Link Tree</Button>
+      </a>
     </LeftSection>
   </Section>
 );
