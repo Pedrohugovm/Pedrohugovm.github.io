@@ -12,7 +12,7 @@ const Hero = (props) => (
         Meu Portfolio
       </SectionTitle>
       <SectionText>
-        Meu nome é Pedro Hugo e sou asessor na área de desenvolvimento web para a prefeitura de Volta Redonda.
+        Meu nome é Pedro Hugo e sou assessor na área de desenvolvimento web para a prefeitura de Volta Redonda.
       </SectionText>
       <a href="https://linktr.ee/pedrodexter" target="_blank">
       <Button>Meu Link Tree</Button>
